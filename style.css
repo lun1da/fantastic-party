@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #de123e;
+}
+h1 {
+    font-size: 50px;
+    color: navy;
+    
+}
+footer{
+    background-color: pink;
+    padding: 10px
+}
+footer p{
+    background-color:  white;
+    family-font: italics;
+    padding: 5px;
+
+}
+nav{
+    margin: 20px;    
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border: 3px solid pink;
+    border-radius: 10px;
+    background-color: pink;
+}
+nav a{
+    margin: 20px;    
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border: 3px solid pink;
+    border-radius: 10px;
+    background-color: pink;
+    text-align: center;
+}
+.products{
+    background-color: lightblue ;
+}
+h2{
+    color: navy;
+    font-size: 30px;
+    background-color: yellow;
+
+}
